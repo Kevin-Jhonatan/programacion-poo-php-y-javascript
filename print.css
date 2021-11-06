@@ -1,0 +1,41 @@
+@media print {
+    #inge {
+        color: rgb(245, 80, 3) !important;
+
+    }
+
+    span {
+        color: rgb(2, 46, 241) !important;
+    }
+    .form-control{
+        text-align: center!important;
+
+    }
+    button{
+        background-color: rgb(0, 255, 42)!important;
+    };
+    #btn{
+        background-color: green!important;
+        color:rgb(20, 194, 29);
+    }
+    h3{
+        background-color: red!important;
+    }
+    #lname{
+        background-color: blueviolet;
+    }
+    #btn{
+        width: 90px 10px;
+        padding: 10px;
+        color: black;
+    }
+    #b{
+        width: 90px 10px;
+        padding: 10px;
+        color: black;
+        align-content: center;
+    }
+    #l{
+        color: black;
+    }
+}
